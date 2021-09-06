@@ -1,0 +1,9 @@
+{
+	"name": "MySimpleadfTrail",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39a3ac9b-35ec-4cf8-96a9-e31c864625fc",
+		"tenantId": "8b87af7d-8647-4dc7-8df4-5f69a2011bb5"
+	}
+}
